@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Felipe S. Sousa",
+      "email": "felipeTest@empresa.com",
+      "id": 1
+    },
+    {
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@cod3r.com",
+      "id": 2
+    },
+    {
+      "name": "Maria Júlia da Silva",
+      "email": "mjds@empresa.com",
+      "id": 3
+    },
+    {
+      "name": "Sandra Regina",
+      "email": "sandra@test.com",
+      "id": 4
+    },
+    {
+      "name": "Cláudio Ferreira de Sousa",
+      "email": "claudio@empresa.com",
+      "id": 5
+    }
+  ]
+}
